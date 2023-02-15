@@ -6,12 +6,12 @@ body {
     font-size: 13px;
    }
 h1 {
-    color:#A52A2A;
+    color:#002bad;
     font-size:18px;
    }
 h2 {
     font-size: 16px;
-     color: #005c80c9;
+     color: #002080c9;
    }
 p {
   color: black;
@@ -21,7 +21,7 @@ p {
 https://www.w3schools.com/css/css3_images.asp */
 img{
   border-style: double;
-  border-color: #001380;
+  border-color: #001799;
 }
 /* Dizains. Оформление изображений, рамки 
 https://www.w3schools.com/cssref/sel_class.asp */
@@ -54,7 +54,7 @@ https://www.w3schools.com/csSref/sel_id.asp */
 #ridge {
   border: 6px;
   border-style: ridge;
-  border-color: rgb(238, 11, 87); 
+  border-color: rgb(0, 225, 255); 
   }
 
 
@@ -69,24 +69,24 @@ div {
 width: 20%;
 height:800px;
 background-color:#005c80e1;
-color:rgb(205, 226, 205);
+color:rgb(235, 250, 194);
 font-family: Georgia, Arial, Helvetica, sans-serif;
 
 
 }
  #menu a{
-color:rgb(223, 245, 223);
+color:rgb(235, 250, 194);
 font-size:150%;
  }
 #content {
-background-color:#fdfdb19c;
+background-color:#ebfac29c;
 width:70%;
 height:800px;
 
 }
 table, th, td {
   width: 40%;
-  border: 2px solid #808000;
+  border: 2px solid #2373a4;
   padding: 2px;
   margin-top:10px;
   text-align: center;
@@ -95,13 +95,13 @@ table, th, td {
 .footer{
 float: center;
 background-color:	rgba(161, 42, 165, 0.767);
-color:rgb(223, 245, 223);
+color:rgb(235, 250, 194);
 width:98%;
 text-align: center;
 }
 .header{
 float: center;
-background:	#f54750;
+background:	#40a09f;
 width:98%;
 height:140px;
 }
@@ -117,7 +117,7 @@ https://www.w3schools.com/css/css3_images.asp */
 .header img {
 border-radius: 20%;
 border-style: solid;
-border-color: #808000;
+border-color: #005580;
 float: left;
 margin-left: 25px;
 
